@@ -13,8 +13,8 @@ Este repositório contém um script Bash que permite personalizar a interface do
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   git clone https://github.com/Pedrozz13755/Terminal_by-Pedrozz_Mods.git
+   cd Terminal_by-Pedrozz_Mods
 
 2. Dê permissão de execução ao script:
 
