@@ -56,7 +56,7 @@ src: Recarrega o .bashrc rapidamente.
 
 hist: Mostra o histórico de comandos.
 
-sd: Acessa o cartão SD.
+sd: Acessa a memória interna do celular.
 
 
 Contribuidor
