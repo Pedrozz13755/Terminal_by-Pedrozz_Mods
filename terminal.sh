@@ -191,7 +191,7 @@ echo -e "${CYAN}TABELA DE ATALHO ADICIONADOS
 • myip - Mostra o IP público
 • src - Recarrega o bashrc
 • hist - Mostra o histórico de comandos
-• sd - Acessa o cartão SD
+• sd - Acessa a memória do celular
 ${NOCOLOR}"
 }
 
