@@ -31,11 +31,12 @@ chmod +x terminal.sh
 
 
 
-#Atalhos Adicionados
+## Atalhos Adicionados
 
 Os seguintes atalhos foram adicionados ao Termux após a execução do script:
 
 ------------------
+````bash
 • ll      - Lista arquivos detalhadamente
 • cls     - Limpa a tela
 • update  - Atualiza pacotes
@@ -59,13 +60,14 @@ Os seguintes atalhos foram adicionados ao Termux após a execução do script:
 • tree    - Instala e exibe árvore de diretórios
 • grep    - Pesquisa com destaque
 • helpc   - Exibe esta tabela de atalhos
+````
 ------------------
 
-#Contribuidor
+## Contribuidor
 
 Este projeto foi desenvolvido por Pedrozz Mods - Programador e entusiasta de automação.
 
-#Licença
+## Licença
 
 Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para detalhes.
 ----
