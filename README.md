@@ -21,7 +21,8 @@ git clone https://github.com/Pedrozz13755/Terminal_by-Pedrozz_Mods.git && cd Ter
 ````bash
 chmod +x terminal.sh
 ````
-3. Execute o script:
+------------------
+3. **Execute o script:**
 ````bash
 ./terminal.sh
 ````
@@ -30,40 +31,41 @@ chmod +x terminal.sh
 
 
 
-Atalhos Adicionados
+#Atalhos Adicionados
 
 Os seguintes atalhos foram adicionados ao Termux após a execução do script:
 
-ll: Lista arquivos com detalhes.
+------------------
+• ll      - Lista arquivos detalhadamente
+• cls     - Limpa a tela
+• update  - Atualiza pacotes
+• install - Instala pacotes
+• rmrf    - Remove arquivos/pastas
+• home    - Vai para home do Termux
+• editbash - Edita o bashrc
+• reload  - Recarrega bashrc
+• myip    - Mostra IP público
+• src     - Recarrega bashrc
+• hist    - Histórico de comandos
+• sd      - Acessa memória do celular
+• laura   - Inicia a Laura padrão
+• laura2  - Inicia a Laura do Git
+• shs     - Inicia bot
+• shl     - Inicia Laura
+• nd      - Executa node index.js
+• bots    - Acessa pasta bots
+• srclog  - Acessa logs do Termux
+• wgetr   - Baixa arquivos com atraso aleatório
+• tree    - Instala e exibe árvore de diretórios
+• grep    - Pesquisa com destaque
+• helpc   - Exibe esta tabela de atalhos
+------------------
 
-cls: Limpa a tela.
-
-update: Atualiza pacotes do Termux.
-
-install: Instala pacotes.
-
-rmrf: Remove arquivos/pastas de forma recursiva.
-
-home: Vai direto para a pasta home.
-
-editbash: Edita o arquivo .bashrc.
-
-reload: Recarrega o .bashrc.
-
-myip: Mostra o IP público.
-
-src: Recarrega o .bashrc rapidamente.
-
-hist: Mostra o histórico de comandos.
-
-sd: Acessa a memória interna do celular.
-
-
-Contribuidor
+#Contribuidor
 
 Este projeto foi desenvolvido por Pedrozz Mods - Programador e entusiasta de automação.
 
-Licença
+#Licença
 
 Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para detalhes.
 ----
