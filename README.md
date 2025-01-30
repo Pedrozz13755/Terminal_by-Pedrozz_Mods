@@ -26,10 +26,12 @@ chmod +x terminal.sh
 ````bash
 ./terminal.sh
 ````
+**OU**
+````bash
+bash terminal.sh
+````
 -----------------
 4. Siga as instruções exibidas no terminal para configurar seu banner, rodapé e atalhos.
-
-
 
 ## Atalhos Adicionados
 
@@ -54,7 +56,7 @@ Os seguintes atalhos foram adicionados ao Termux após a execução do script:
 • shs     - Inicia bot
 • shl     - Inicia Laura
 • nd      - Executa node index.js
-• bots    - Acessa pasta bots
+• bot    - modifica para seu bot
 • srclog  - Acessa logs do Termux
 • wgetr   - Baixa arquivos com atraso aleatório
 • tree    - Instala e exibe árvore de diretórios
@@ -63,9 +65,9 @@ Os seguintes atalhos foram adicionados ao Termux após a execução do script:
 ````
 ------------------
 
-## Contribuidor
+## Contribuidor / Créditos 
 
-Este projeto foi desenvolvido por Pedrozz Mods - Programador e entusiasta de automação.
+Este projeto foi desenvolvido por Pedrozz Mods, programador e entusiasta de automação. Como este projeto é de código aberto, sinta-se à vontade para modificá-lo. No entanto, se possível, por favor, mantenha os créditos. Agradeço desde já!
 
 ## Licença
 
