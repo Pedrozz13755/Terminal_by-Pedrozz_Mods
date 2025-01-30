@@ -11,21 +11,21 @@ Este repositório contém um script Bash que permite personalizar a interface do
 
 ## Como Usar
 
-1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/Pedrozz13755/Terminal_by-Pedrozz_Mods.git
-   cd Terminal_by-Pedrozz_Mods
-
-2. Dê permissão de execução ao script:
-
+------------------
+1 - **Clone o repositório**:
+````bash
+git clone https://github.com/Pedrozz13755/Terminal_by-Pedrozz_Mods.git && cd Terminal_by-Pedrozz_Mods
+````
+------------------
+2. **Dê permissão de execução ao script:**
+````bash
 chmod +x terminal.sh
-
-
+````
 3. Execute o script:
-
+````bash
 ./terminal.sh
-
-
+````
+-----------------
 4. Siga as instruções exibidas no terminal para configurar seu banner, rodapé e atalhos.
 
 
